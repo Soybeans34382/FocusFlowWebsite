@@ -33,4 +33,4 @@ const server = http.createServer((req,res)=> {
 
 
 
-server.listen(5959,() => console.log("lisening"))
+server.listen(process.env.PORT || 5959, () => console.log("on"))
