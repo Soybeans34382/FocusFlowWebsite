@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Timer Pro",
+    "category": "Timer",
+    "price": "$9/mo",
+    "description": "Adaptive Pomodoro timer that learns your peak focus hours and adjusts session lengths automatically.",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 2,
+    "name": "AI Task Prioritizer",
+    "category": "AI Tool",
+    "price": "$9/mo",
+    "description": "Let the AI rank your to-do list by deadline, complexity, and long-term impact so you always work on what matters most.",
+    "tag": "AI-Powered"
+  },
+  {
+    "id": 3,
+    "name": "Deep Focus Analytics",
+    "category": "Analytics",
+    "price": "$9/mo",
+    "description": "Visualize your productivity streaks, peak hours, and distraction patterns with lifetime analytics history.",
+    "tag": "Insights"
+  },
+  {
+    "id": 4,
+    "name": "Team Workspace",
+    "category": "Team",
+    "price": "$100",
+    "description": "Shared workspace for up to 10 team members with a unified analytics dashboard and admin controls.",
+    "tag": "Lifetime"
+  },
+  {
+    "id": 5,
+    "name": "Dark Mode Theme",
+    "category": "Customization",
+    "price": "Free",
+    "description": "Reduce eye strain during late-night sessions with a beautifully crafted dark mode interface.",
+    "tag": "Free"
+  },
+  {
+    "id": 6,
+    "name": "Focus Sounds Pack",
+    "category": "Ambient",
+    "price": "$4.99",
+    "description": "Curated ambient soundscapes—rain, café, white noise—scientifically paired with focus sessions for deep work.",
+    "tag": "Add-on"
+  },
+  {
+    "id": 7,
+    "name": "Daily Digest Report",
+    "category": "Reporting",
+    "price": "$9/mo",
+    "description": "Automated daily summaries of completed tasks, focus time, and recommendations for tomorrow's priorities.",
+    "tag": "Pro"
+  },
+  {
+    "id": 8,
+    "name": "Distraction Blocker",
+    "category": "Focus Tool",
+    "price": "$9/mo",
+    "description": "Block distracting websites and apps during active focus sessions so nothing pulls you out of flow state.",
+    "tag": "Pro"
+  },
+  {
+    "id": 9,
+    "name": "Goal Tracker",
+    "category": "Planning",
+    "price": "$9/mo",
+    "description": "Set weekly and monthly goals, track your progress over time, and celebrate milestones to stay motivated.",
+    "tag": "Pro"
+  },
+  {
+    "id": 10,
+    "name": "Mobile App (iOS/Android)",
+    "category": "Mobile",
+    "price": "Free",
+    "description": "Take FocusFlow anywhere. Full feature parity with the desktop app, synced across all your devices in real time.",
+    "tag": "Free"
+  }
+]
