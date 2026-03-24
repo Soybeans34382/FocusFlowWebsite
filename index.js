@@ -22,11 +22,12 @@ const server = http.createServer((req,res)=> {
         })
 
     }else if (req.url.startsWith("/images/")) {
-    fs.readFile(path.join(__dirname, req.url), (err, data) => {
+        fs.readFile(path.join(__dirname, req.url), (err, data) => {
         if (err) { res.writeHead(404); res.end("not found"); return }
         res.writeHead(200)
         res.end(data)
     })
+    }
 
 })
 
